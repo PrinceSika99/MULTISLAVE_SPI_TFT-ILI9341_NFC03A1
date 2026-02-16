@@ -26,6 +26,6 @@ application STM32 sur STM32G431 avec NFC03A1 et TFT ILI9341 thème : validation 
 # Montage électronique et Démonstration
 lien de démonstration ici : https://www.linkedin.com/feed/update/urn:li:activity:7429177576969043970/?originTrackingId=Elubak5HgRWI%2FOX6fjnYbA%3D%3D
 
-![cablage_multislave_SPI_project](https://github.com/user-attachments/assets/2e599e30-aa3f-474a-b933-f6da14ed5e10)
+![cablage_multislave_SPI_project](https://www.linkedin.com/feed/update/urn:li:activity:7429177576969043970/?originTrackingId=Elubak5HgRWI%2FOX6fjnYbA%3D%3D)
 
 
